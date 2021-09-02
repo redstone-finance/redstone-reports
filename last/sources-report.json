@@ -1,0 +1,333 @@
+{
+  "pangolin-wavax": {
+    "fetching-failed": {
+      "2021-08-26": 4,
+      "2021-08-24": 2,
+      "2021-08-23": 2
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 4020,
+      "2021-08-25": 14310,
+      "2021-08-24": 14350,
+      "2021-08-23": 10290
+    },
+    "symbols": {
+      "not-in-response": [
+        "ETH",
+        "BTC",
+        "LINK",
+        "AVAX",
+        "USDT"
+      ],
+      "big-deviation": [
+        "DAI"
+      ]
+    }
+  },
+  "coingecko": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 6,
+      "2021-08-23": 8
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2864,
+      "2021-08-23": 2052
+    },
+    "symbols": {
+      "not-in-response": [
+        "SPORE"
+      ]
+    }
+  },
+  "bibox": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 6
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2864,
+      "2021-08-23": 2060
+    },
+    "symbols": {
+      "not-in-response": [
+        "ROCKS"
+      ],
+      "big-deviation": [
+        "AMP",
+        "TRIBE"
+      ]
+    }
+  },
+  "bitfinex": {
+    "fetching-failed": {
+      "2021-08-25": 4,
+      "2021-08-24": 6
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 1612,
+      "2021-08-25": 5720,
+      "2021-08-24": 5736,
+      "2021-08-23": 2690
+    },
+    "symbols": {
+      "not-in-response": [
+        "EXRD"
+      ]
+    }
+  },
+  "bitfinex2": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 4
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2868,
+      "2021-08-23": 1346
+    },
+    "symbols": {
+      "not-in-response": [
+        "EXRD"
+      ]
+    }
+  },
+  "bittrex": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 4
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2868,
+      "2021-08-23": 2060
+    },
+    "symbols": {
+      "not-in-response": [
+        "SUTER"
+      ],
+      "big-deviation": [
+        "ROOK",
+        "IQQ"
+      ]
+    }
+  },
+  "currencycom": {
+    "fetching-failed": {
+      "2021-08-26": 2,
+      "2021-08-23": 14
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-23": 1500
+    },
+    "symbols": {
+      "not-in-response": [
+        "REP"
+      ],
+      "big-deviation": [
+        "AR",
+        "DASH"
+      ]
+    }
+  },
+  "delta": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 4,
+      "2021-08-23": 2
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2868,
+      "2021-08-23": 2058
+    },
+    "symbols": {
+      "not-in-response": [
+        "BSV"
+      ]
+    }
+  },
+  "kucoin": {
+    "fetching-failed": {
+      "2021-08-25": 4,
+      "2021-08-24": 4
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2858,
+      "2021-08-24": 2868,
+      "2021-08-23": 2060
+    },
+    "symbols": {
+      "not-in-response": [
+        "SDT"
+      ]
+    }
+  },
+  "lbank": {
+    "symbol-not-in-reponse": {
+      "2021-08-26": 1612,
+      "2021-08-25": 5724,
+      "2021-08-24": 5740,
+      "2021-08-23": 4120
+    },
+    "symbols": {
+      "not-in-response": [
+        "LBC",
+        "SMC"
+      ],
+      "big-deviation": [
+        "OOE",
+        "SKM"
+      ]
+    }
+  },
+  "okex": {
+    "fetching-failed": {
+      "2021-08-25": 6,
+      "2021-08-24": 12
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 2418,
+      "2021-08-25": 8580,
+      "2021-08-24": 8602,
+      "2021-08-23": 6178
+    },
+    "symbols": {
+      "not-in-response": [
+        "QUN"
+      ]
+    }
+  },
+  "okex3": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 4
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2866,
+      "2021-08-23": 2058
+    },
+    "symbols": {
+      "not-in-response": [
+        "QUN"
+      ]
+    }
+  },
+  "okex5": {
+    "fetching-failed": {
+      "2021-08-25": 2,
+      "2021-08-24": 4
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-26": 806,
+      "2021-08-25": 2860,
+      "2021-08-24": 2868,
+      "2021-08-23": 2060
+    },
+    "symbols": {
+      "not-in-response": [
+        "QUN"
+      ]
+    }
+  },
+  "aax": {
+    "fetching-failed": {
+      "2021-08-26": 24,
+      "2021-08-25": 52,
+      "2021-08-24": 30,
+      "2021-08-23": 20
+    },
+    "symbol-not-in-reponse": {
+      "2021-08-25": 142
+    },
+    "incorrect-price-value": {
+      "2021-08-26": 782,
+      "2021-08-25": 2808,
+      "2021-08-24": 2840,
+      "2021-08-23": 2038
+    },
+    "symbols": {
+      "not-in-response": [
+        "LRC",
+        "ENJ",
+        "SOL",
+        "CHZ",
+        "BSV",
+        "SAND",
+        "ZIL",
+        "KSM",
+        "AXS",
+        "SHIB",
+        "UMA",
+        "VET",
+        "ZEN",
+        "THETA",
+        "SRM",
+        "REP",
+        "HT",
+        "FTT",
+        "LPT",
+        "OKB",
+        "AKRO",
+        "REEF",
+        "CVC",
+        "CAKE",
+        "XVS",
+        "CEL",
+        "PAXG",
+        "AUDIO",
+        "SOC",
+        "DOCK",
+        "RAY",
+        "TFUEL",
+        "STEP",
+        "AAB",
+        "ZRX",
+        "MANA",
+        "BNB",
+        "BTT",
+        "MATIC",
+        "SNX",
+        "NEO",
+        "USDC",
+        "OMG",
+        "ZEC",
+        "QTUM",
+        "REN",
+        "XLM",
+        "YFI",
+        "AAVE",
+        "COMP",
+        "ADA",
+        "MKR",
+        "FIL",
+        "BAT",
+        "ETC",
+        "LTC",
+        "XRP",
+        "UNI",
+        "BCH",
+        "DOGE",
+        "EOS",
+        "DOT",
+        "TRX",
+        "ETH",
+        "LINK",
+        "BTC"
+      ],
+      "incorrect-value": [
+        "BSV"
+      ]
+    }
+  }
+}
