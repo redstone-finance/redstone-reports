@@ -12,7 +12,10 @@
   "coingecko": {
     "fetching-failed": {},
     "symbol-not-in-reponse": {},
-    "incorrect-price-value": {}
+    "incorrect-price-value": {
+      "2021-08-23": "2582",
+      "2021-08-22": "2820"
+    }
   },
   "sushiswap": {
     "fetching-failed": {
