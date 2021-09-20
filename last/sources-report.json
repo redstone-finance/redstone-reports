@@ -12,10 +12,7 @@
   "coingecko": {
     "fetching-failed": {},
     "symbol-not-in-reponse": {},
-    "incorrect-price-value": {
-      "2021-08-23": "2582",
-      "2021-08-22": "2820"
-    }
+    "incorrect-price-value": {}
   },
   "sushiswap": {
     "fetching-failed": {
@@ -23,6 +20,426 @@
       "2021-09-17": "2",
       "2021-09-15": "18"
     },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "pangolin": {
+    "fetching-failed": {
+      "2021-09-17": "12",
+      "2021-09-16": "6",
+      "2021-09-15": "140"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "coinbase": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "uniswap": {
+    "fetching-failed": {
+      "2021-09-16": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "kyber": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2872",
+      "2021-09-16": "2852",
+      "2021-09-15": "1034"
+    }
+  },
+  "verto": {
+    "fetching-failed": {
+      "2021-09-20": "2",
+      "2021-09-19": "8",
+      "2021-09-18": "6",
+      "2021-09-17": "4",
+      "2021-09-16": "2",
+      "2021-09-15": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "ecb": {
+    "fetching-failed": {
+      "2021-09-16": "14"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "aax": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "aofex": {
+    "fetching-failed": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2872",
+      "2021-09-16": "2852",
+      "2021-09-15": "1034"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "ascendex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {
+      "2021-09-20": "3660",
+      "2021-09-19": "5736",
+      "2021-09-18": "5736",
+      "2021-09-17": "5740",
+      "2021-09-16": "5708",
+      "2021-09-15": "2068"
+    },
+    "incorrect-price-value": {}
+  },
+  "bequant": {
+    "fetching-failed": {
+      "2021-09-16": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bibox": {
+    "fetching-failed": {
+      "2021-09-20": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "binance": {
+    "fetching-failed": {
+      "2021-09-18": "4",
+      "2021-09-17": "4",
+      "2021-09-15": "10"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2870",
+      "2021-09-16": "2852",
+      "2021-09-15": "1028"
+    }
+  },
+  "binancecoinm": {
+    "fetching-failed": {
+      "2021-09-18": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "binanceus": {
+    "fetching-failed": {
+      "2021-09-18": "2",
+      "2021-09-17": "2",
+      "2021-09-15": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "binanceusdm": {
+    "fetching-failed": {
+      "2021-09-18": "2",
+      "2021-09-15": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bitcoincom": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bitfinex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bitfinex2": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bitmex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bittrex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2870",
+      "2021-09-16": "2854",
+      "2021-09-15": "1034"
+    },
+    "incorrect-price-value": {}
+  },
+  "bitz": {
+    "fetching-failed": {
+      "2021-09-18": "2"
+    },
+    "symbol-not-in-reponse": {
+      "2021-09-16": "26"
+    },
+    "incorrect-price-value": {}
+  },
+  "btcturk": {
+    "fetching-failed": {
+      "2021-09-20": "2",
+      "2021-09-16": "2"
+    },
+    "symbol-not-in-reponse": {
+      "2021-09-19": "2"
+    },
+    "incorrect-price-value": {}
+  },
+  "bw": {
+    "fetching-failed": {
+      "2021-09-20": "2",
+      "2021-09-19": "2",
+      "2021-09-18": "4",
+      "2021-09-16": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "bybit": {
+    "fetching-failed": {
+      "2021-09-19": "2",
+      "2021-09-18": "4",
+      "2021-09-17": "2",
+      "2021-09-16": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "cdax": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "cex": {
+    "fetching-failed": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2870",
+      "2021-09-16": "2854",
+      "2021-09-15": "1034"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "coinex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {
+      "2021-09-20": "7320",
+      "2021-09-19": "11472",
+      "2021-09-18": "184"
+    },
+    "incorrect-price-value": {}
+  },
+  "crex24": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2872",
+      "2021-09-16": "2852",
+      "2021-09-15": "1034"
+    },
+    "incorrect-price-value": {}
+  },
+  "currencycom": {
+    "fetching-failed": {
+      "2021-09-16": "6"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "delta": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "exx": {
+    "fetching-failed": {
+      "2021-09-20": "6"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {
+      "2021-09-19": "14",
+      "2021-09-18": "8",
+      "2021-09-17": "10"
+    }
+  },
+  "ftx": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "hitbtc": {
+    "fetching-failed": {
+      "2021-09-20": "26",
+      "2021-09-19": "38",
+      "2021-09-18": "30",
+      "2021-09-17": "34",
+      "2021-09-16": "70",
+      "2021-09-15": "24"
+    },
+    "symbol-not-in-reponse": {
+      "2021-09-20": "3608",
+      "2021-09-19": "5660",
+      "2021-09-18": "5676",
+      "2021-09-17": "5676",
+      "2021-09-16": "5564",
+      "2021-09-15": "2020"
+    },
+    "incorrect-price-value": {}
+  },
+  "hollaex": {
+    "fetching-failed": {
+      "2021-09-20": "18",
+      "2021-09-19": "26",
+      "2021-09-18": "26",
+      "2021-09-17": "20",
+      "2021-09-16": "82",
+      "2021-09-15": "16"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "huobipro": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "kraken": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "kucoin": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "lbank": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {
+      "2021-09-20": "3660",
+      "2021-09-19": "5736",
+      "2021-09-18": "7516",
+      "2021-09-17": "6812",
+      "2021-09-16": "5708",
+      "2021-09-15": "2068"
+    },
+    "incorrect-price-value": {}
+  },
+  "liquid": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "oceanex": {
+    "fetching-failed": {
+      "2021-09-19": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "okcoin": {
+    "fetching-failed": {
+      "2021-09-17": "2"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "okex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "okex3": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "okex5": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "poloniex": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "probit": {
+    "fetching-failed": {
+      "2021-09-16": "2"
+    },
+    "symbol-not-in-reponse": {
+      "2021-09-20": "1830",
+      "2021-09-19": "2868",
+      "2021-09-18": "2868",
+      "2021-09-17": "2872",
+      "2021-09-16": "2850",
+      "2021-09-15": "1034"
+    },
+    "incorrect-price-value": {}
+  },
+  "qtrade": {
+    "fetching-failed": {
+      "2021-09-16": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "stex": {
+    "fetching-failed": {
+      "2021-09-20": "2",
+      "2021-09-19": "6",
+      "2021-09-18": "2",
+      "2021-09-17": "2",
+      "2021-09-16": "12",
+      "2021-09-15": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "tidebit": {
+    "fetching-failed": {},
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "timex": {
+    "fetching-failed": {
+      "2021-09-20": "2",
+      "2021-09-15": "4"
+    },
+    "symbol-not-in-reponse": {},
+    "incorrect-price-value": {}
+  },
+  "vcc": {
+    "fetching-failed": {},
     "symbol-not-in-reponse": {},
     "incorrect-price-value": {}
   }
